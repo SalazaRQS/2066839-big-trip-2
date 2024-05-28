@@ -2,7 +2,7 @@ import { createElement } from '../render.js';
 
 function createEditListTemplate() {
   return `
-    <ul class="trip-events__list">
+    <ul class="trip-events__list"></ul>
   `;
 }
 
