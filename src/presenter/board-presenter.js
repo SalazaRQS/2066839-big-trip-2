@@ -1,5 +1,5 @@
 import SortView from '../view/sort-view.js';
-import EditList from '../view/event-list-view.js';
+import EditList from '../view/edit-list.js';
 import FormEditView from '../view/form-edit-view.js';
 import PointView from '../view/point-view.js';
 import { render } from '../render.js';
